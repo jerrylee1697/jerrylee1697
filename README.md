@@ -33,7 +33,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
-<table>
+<!-- <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -66,7 +66,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 ------------
